@@ -1,5 +1,6 @@
 {
   "mpa": true,
+  "ssr": true,
   "plugins": [
     [
       "build-plugin-antd"
